@@ -1,0 +1,7 @@
+Data/four_circle_1.my Time: 2.02
+Data/four_circle_2.my Time: 4.314
+Data/other_graphs.my Time: 0.027
+Data/four_circle_1.my Time: 0.048
+Data/four_circle_2.my Time: 0.033
+Data/other_graphs.my Time: 0
+Data/three_circle.my Time: 0.01
